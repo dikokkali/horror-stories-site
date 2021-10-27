@@ -1,0 +1,7 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@300&display=swap');
+
+html {
+    background-color: #0A0A0A;
+    font-family:'Noto Sans Mono', monospace;
+}

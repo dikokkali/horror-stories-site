@@ -1,0 +1,13 @@
+div.storyBlock {
+    color: white;
+    text-align: center;
+    margin: auto 25% auto 25%;
+
+    background-color: rgb(36, 36, 36);
+
+    word-wrap: break-word;
+}
+
+p {
+    margin: auto 5% auto 5%;
+}
